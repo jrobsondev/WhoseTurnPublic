@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
         {
-            "appID": "VNNR6TCCC68.dev.jakerobson.WhoseTurn",
+            "appID": "APP_ID_GOES_HERE.dev.jakerobson.WhoseTurn",
             "paths": [ "/import/task?*" ]
         }
     ]
