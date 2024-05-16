@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+        {
+            "appID": "VNNR6TCCC68.dev.jakerobson.WhoseTurn",
+            "paths": [ "/import/task?*" ]
+        }
+    ]
+  }
+}
